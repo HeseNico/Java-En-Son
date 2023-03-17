@@ -19,7 +19,7 @@ public class C01 {
         // }
 
 
-        int bas = 20;
+        int bas = 30;
         int bit = 40;
         int sayitoplam = 0;
 
